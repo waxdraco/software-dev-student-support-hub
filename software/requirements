@@ -1,4 +1,0 @@
-# Install with: pip install -r requirements.txt
-# Needs Python 3.9 or newer.
-
-Try this command on command prompt or VS code terminal: python -m pip install PyQt6

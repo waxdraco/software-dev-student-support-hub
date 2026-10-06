@@ -1,0 +1,37 @@
+{
+    "topics": [
+        {
+            "category": "Academic Skills",
+            "description": "Help with assignments, referencing, and study plans."
+        },
+        {
+            "category": "IT Help",
+            "description": "Campus Wi-Fi, password resets, and software access."
+        },
+        {
+            "category": "Careers",
+            "description": "Resume reviews, interview prep, and internships."
+        },
+        {
+            "category": "Accessibility",
+            "description": "Support plans and assistive technology."
+        },
+        {
+            "category": "Wellbeing",
+            "description": "Counseling and mental health services."
+        }
+    ],
+    "announcements": [
+        "Library research workshop",
+        "Campus Wi-Fi maintenance",
+        "Careers resume session"
+    ],
+    "requests": [
+        {
+            "RequestID": 1,
+            "Category": "Careers",
+            "Description": "I want to build a carrier in cybersecurity",
+            "Status": "Submitted"
+        }
+    ]
+}
